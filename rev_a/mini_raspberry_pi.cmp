@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sat 05 Jul 2014 09:33:47 AM PDT
+
+BeginCmp
+TimeStamp = /53AA4798;
+Reference = G1;
+ValeurCmp = OSHW_LOGO;
+IdModule  = Mini_Raspberry_Pi_Rev_A:OSHW_LOGO_400mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AA33AA;
+Reference = H1;
+ValeurCmp = 3MM_HOLE;
+IdModule  = Mini_Raspberry_Pi_Rev_A:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9D11F;
+Reference = N1;
+ValeurCmp = MS_DATA_HEADER;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9D139;
+Reference = N2;
+ValeurCmp = MS_PWR_HEADER;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_2x08;
+EndCmp
+
+EndListe

@@ -1,4 +1,4 @@
 mini_raspberry_pi
 =================
 
-Raspberry Pi Mini-Shield to bridge a BusDuino to a Raspberry Pi.
+Raspberry Pi Mini-Shield to bridge a Raspberry Pi to a Busino.
