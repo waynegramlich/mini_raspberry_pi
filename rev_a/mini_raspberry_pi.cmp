@@ -1,10 +1,24 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sat 05 Jul 2014 09:33:47 AM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sun 06 Jul 2014 02:44:32 PM PDT
+
+BeginCmp
+TimeStamp = /53B9A91C;
+Reference = C1;
+ValeurCmp = .1uF;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B9A840;
+Reference = C2;
+ValeurCmp = .1uF;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Capacitor3MMDiscRM2.5;
+EndCmp
 
 BeginCmp
 TimeStamp = /53AA4798;
 Reference = G1;
 ValeurCmp = OSHW_LOGO;
-IdModule  = Mini_Raspberry_Pi_Rev_A:OSHW_LOGO_400mil;
+IdModule  = Mini_Raspberry_Pi_Rev_A:OSHW_LOGO_200mil;
 EndCmp
 
 BeginCmp
@@ -26,6 +40,104 @@ TimeStamp = /53A9D139;
 Reference = N2;
 ValeurCmp = MS_PWR_HEADER;
 IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B86AF3;
+Reference = N3;
+ValeurCmp = OKI-78SR-4/1.5-W36-C;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B86ACA;
+Reference = N4;
+ValeurCmp = RASPI_CONNECTOR;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_2x13;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B86C8F;
+Reference = N5;
+ValeurCmp = RASPI_HEADER;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_2x13;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96B49;
+Reference = N6;
+ValeurCmp = FTDI_HEADER;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96745;
+Reference = Q1;
+ValeurCmp = PN2222;
+IdModule  = Mini_Raspberry_Pi_Rev_A:TO92_123;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96E2E;
+Reference = R1;
+ValeurCmp = 2K2 1%;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96E94;
+Reference = R2;
+ValeurCmp = 3K3 1%;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B9742E;
+Reference = R3;
+ValeurCmp = 2K2 1%;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B97478;
+Reference = R4;
+ValeurCmp = 3K3 1%;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96ADC;
+Reference = R5;
+ValeurCmp = 470;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96B11;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B999D3;
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = Mini_Raspberry_Pi_Rev_A:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B97733;
+Reference = U1;
+ValeurCmp = 74X125;
+IdModule  = Mini_Raspberry_Pi_Rev_A:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B96C30;
+Reference = U2;
+ValeurCmp = 74HCT08;
+IdModule  = Mini_Raspberry_Pi_Rev_A:DIP-14__300;
 EndCmp
 
 EndListe

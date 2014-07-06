@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LS09
+D Quad And2 Open Collect
+K TTL and2 OpenCol
+$ENDCMP
+#
+$CMP 74X08
+D Quad And2
+K TTL and2
+$ENDCMP
+#
 #End Doc Library
