@@ -6,17 +6,14 @@ Raspberry Pi Mini-Shield to bridge a Raspberry Pi to a Busino.
 
 The Raspberry Pi Mini-Shield provides an
 electrical bridge between a
-[busino](https://github.com/waynegramlich/busino/)
+[Busino](https://github.com/waynegramlich/busino/)
 and a [Raspberry Pi](http://www.raspberrypi.org/).
 
 ## Revision A
 
 Revision A can be found in the `rev_a` directory.  The
-schematic is available in
-[pdf](https://github.com/waynegramlich/mini_raspberry_pi/mini_raspberry_pi.pdf]
-or in
-[svg](https://github.com/waynegramlich/mini_raspberry_pi/mini_raspberry_pi.svg]
-format.
+schematic is available as `rev_a/mini_raspberry_pi.pdf`
+or `rev_a/mini_raspberry_pi.svg`.
 
 The Rasberry Pi Mini-Shield connects to the Busino via
 connectors N1 and N2.  The mini-shield connects to the
