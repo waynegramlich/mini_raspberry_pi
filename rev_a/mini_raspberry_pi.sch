@@ -37,8 +37,8 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Mini-Shield"
-Date ""
-Rev ""
+Date "11 Jul 2014"
+Rev "A"
 Comp ""
 Comment1 ""
 Comment2 ""
